@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Muhammad Abaidullah Banner"/>
+</p>
 
 <!--
 **M-Abaidullah-01/M-Abaidullah-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
