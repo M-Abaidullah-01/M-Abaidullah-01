@@ -44,12 +44,13 @@ I am a **Software Engineer and Full Stack Developer** with hands-on experience b
 
 ### Core Expertise
 
-```text
-Frontend        Angular, TypeScript, JavaScript, HTML5, CSS3
-Backend         ASP.NET Core, C#, REST APIs
-Databases       MongoDB, MySQL, SQL Server
-Cloud & DevOps  Microsoft Azure, Git, GitHub, Docker
-Tools           Postman, Visual Studio, VS Code, Figma
+| Area | Technologies |
+|------|--------------|
+| Frontend | Angular, TypeScript, JavaScript, HTML5, CSS3 |
+| Backend | ASP.NET Core, C#, REST APIs |
+| Databases | MongoDB, MySQL, SQL Server |
+| Cloud & DevOps | Microsoft Azure, Git, GitHub, Docker |
+| Tools | Visual Studio, VS Code, Postman, Figma |
 
 ---
 
